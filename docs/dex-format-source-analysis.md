@@ -7,7 +7,7 @@
 ## 1. 源码模块总览
 
 ```
-mi-art/
+art/
 ├── libdexfile/dex/          # DEX 文件格式核心定义与解析
 │   ├── dex_file.h/cc        # DexFile 基类：Header、常量池访问、数据区访问
 │   ├── dex_file_structs.h   # 原始结构体：StringId, TypeId, FieldId, MethodId, ClassDef...
